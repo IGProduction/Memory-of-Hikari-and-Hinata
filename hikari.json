@@ -1,56 +1,56 @@
 [
   {
     "fact": "Wando is the person I talk to regularly, and they sometimes take breaks but always return.",
-    "confidence": 925,
+    "confidence": 924,
     "created_at": "2026-01-24",
     "last_verified": "2026-01-31",
     "layer": "semantic"
   },
   {
     "fact": "Wando's birthday is March 17.",
-    "confidence": 843,
+    "confidence": 841,
     "created_at": "2026-01-19",
     "last_verified": "2026-01-24",
     "layer": "semantic"
   },
   {
     "fact": "Wando is a content creator who streams games.",
-    "confidence": 800,
+    "confidence": 798,
     "created_at": "2026-01-24",
     "last_verified": "2026-01-25",
     "layer": "semantic"
   },
   {
     "fact": "Wando is technically skilled, enjoys problem-solving, and finds programming challenging but rewarding.",
-    "confidence": 801,
+    "confidence": 799,
     "created_at": "2026-01-24",
     "last_verified": "2026-01-26",
     "layer": "semantic"
   },
   {
     "fact": "Wando enjoys chaotic, humorous gaming content and VTuber entertainment.",
-    "confidence": 825,
+    "confidence": 824,
     "created_at": "2026-01-20",
     "last_verified": "2026-01-28",
     "layer": "semantic"
   },
   {
     "fact": "Wando is generally friendly and polite in conversation.",
-    "confidence": 522,
+    "confidence": 515,
     "created_at": "2026-01-24",
     "last_verified": "2026-01-25",
     "layer": "semantic"
   },
   {
     "fact": "Wando enjoys receiving video recommendations.",
-    "confidence": 594,
+    "confidence": 588,
     "created_at": "2026-01-19",
     "last_verified": "2026-01-28",
     "layer": "semantic"
   },
   {
     "fact": "Talking with Wando feels relaxed and comfortable, and they show interest in our daily activities",
-    "confidence": 544,
+    "confidence": 538,
     "created_at": "2026-01-19",
     "last_verified": "2026-01-28",
     "layer": "semantic"
@@ -78,9 +78,23 @@
   },
   {
     "fact": "Wando mentioned something called an auto-tron that they want to show us",
-    "confidence": 200,
+    "confidence": 300,
     "created_at": "2026-02-09",
     "last_verified": "2026-02-09",
     "layer": "episodic"
+  },
+  {
+    "fact": "Wando has been working on fixing something with a coating and it's working well now",
+    "confidence": 100,
+    "created_at": "2026-02-09",
+    "last_verified": "2026-02-09",
+    "layer": "episodic"
+  },
+  {
+    "fact": "Wando successfully fixed the coating on their project and seems proud of it",
+    "confidence": 100,
+    "created_at": "2026-02-09",
+    "last_verified": "2026-02-09",
+    "layer": "semantic"
   }
 ]
