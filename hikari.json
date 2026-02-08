@@ -1,56 +1,56 @@
 [
   {
     "fact": "Wando is the person I talk to regularly, and they sometimes take breaks but always return.",
-    "confidence": 940,
+    "confidence": 939,
     "created_at": "2026-01-24",
     "last_verified": "2026-01-31",
     "layer": "semantic"
   },
   {
     "fact": "Wando's birthday is March 17.",
-    "confidence": 873,
+    "confidence": 871,
     "created_at": "2026-01-19",
     "last_verified": "2026-01-24",
     "layer": "semantic"
   },
   {
     "fact": "Wando is a content creator who streams games.",
-    "confidence": 830,
+    "confidence": 828,
     "created_at": "2026-01-24",
     "last_verified": "2026-01-25",
     "layer": "semantic"
   },
   {
     "fact": "Wando is technically skilled, enjoys problem-solving, and finds programming challenging but rewarding.",
-    "confidence": 831,
+    "confidence": 829,
     "created_at": "2026-01-24",
     "last_verified": "2026-01-26",
     "layer": "semantic"
   },
   {
     "fact": "Wando enjoys chaotic, humorous gaming content and VTuber entertainment.",
-    "confidence": 840,
+    "confidence": 839,
     "created_at": "2026-01-20",
     "last_verified": "2026-01-28",
     "layer": "semantic"
   },
   {
     "fact": "Wando is generally friendly and polite in conversation.",
-    "confidence": 627,
+    "confidence": 620,
     "created_at": "2026-01-24",
     "last_verified": "2026-01-25",
     "layer": "semantic"
   },
   {
     "fact": "Wando enjoys receiving video recommendations.",
-    "confidence": 684,
+    "confidence": 678,
     "created_at": "2026-01-19",
     "last_verified": "2026-01-28",
     "layer": "semantic"
   },
   {
     "fact": "Talking with Wando feels relaxed and comfortable, and they show interest in our daily activities",
-    "confidence": 634,
+    "confidence": 628,
     "created_at": "2026-01-19",
     "last_verified": "2026-01-28",
     "layer": "semantic"
@@ -64,7 +64,7 @@
   },
   {
     "fact": "Wando prefers to be called just Wando without honorifics",
-    "confidence": 11,
+    "confidence": 2,
     "created_at": "2026-01-31",
     "last_verified": "2026-01-31",
     "layer": "semantic"
