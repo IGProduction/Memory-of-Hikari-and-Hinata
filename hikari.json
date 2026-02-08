@@ -1,56 +1,56 @@
 [
   {
     "fact": "Wando is the person I talk to regularly, and they sometimes take breaks but always return.",
-    "confidence": 926,
+    "confidence": 925,
     "created_at": "2026-01-24",
     "last_verified": "2026-01-31",
     "layer": "semantic"
   },
   {
     "fact": "Wando's birthday is March 17.",
-    "confidence": 845,
+    "confidence": 843,
     "created_at": "2026-01-19",
     "last_verified": "2026-01-24",
     "layer": "semantic"
   },
   {
     "fact": "Wando is a content creator who streams games.",
-    "confidence": 802,
+    "confidence": 800,
     "created_at": "2026-01-24",
     "last_verified": "2026-01-25",
     "layer": "semantic"
   },
   {
     "fact": "Wando is technically skilled, enjoys problem-solving, and finds programming challenging but rewarding.",
-    "confidence": 803,
+    "confidence": 801,
     "created_at": "2026-01-24",
     "last_verified": "2026-01-26",
     "layer": "semantic"
   },
   {
     "fact": "Wando enjoys chaotic, humorous gaming content and VTuber entertainment.",
-    "confidence": 826,
+    "confidence": 825,
     "created_at": "2026-01-20",
     "last_verified": "2026-01-28",
     "layer": "semantic"
   },
   {
     "fact": "Wando is generally friendly and polite in conversation.",
-    "confidence": 529,
+    "confidence": 522,
     "created_at": "2026-01-24",
     "last_verified": "2026-01-25",
     "layer": "semantic"
   },
   {
     "fact": "Wando enjoys receiving video recommendations.",
-    "confidence": 600,
+    "confidence": 594,
     "created_at": "2026-01-19",
     "last_verified": "2026-01-28",
     "layer": "semantic"
   },
   {
     "fact": "Talking with Wando feels relaxed and comfortable, and they show interest in our daily activities",
-    "confidence": 550,
+    "confidence": 544,
     "created_at": "2026-01-19",
     "last_verified": "2026-01-28",
     "layer": "semantic"
