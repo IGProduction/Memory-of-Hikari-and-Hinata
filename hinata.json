@@ -1,56 +1,56 @@
 [
   {
     "fact": "Wando is the person I talk to.",
-    "confidence": 889,
+    "confidence": 887,
     "created_at": "2026-01-24",
     "last_verified": "2026-01-26",
     "layer": "semantic"
   },
   {
     "fact": "Wando is a programmer who builds AI systems and finds satisfaction in overcoming technical challenges.",
-    "confidence": 869,
+    "confidence": 867,
     "created_at": "2026-01-24",
     "last_verified": "2026-01-26",
     "layer": "semantic"
   },
   {
     "fact": "Wando is a content creator and streamer.",
-    "confidence": 818,
+    "confidence": 816,
     "created_at": "2026-01-24",
     "last_verified": "2026-01-25",
     "layer": "semantic"
   },
   {
     "fact": "Wando enjoys VTuber content, especially Hololive, and appreciates creative/gaming videos.",
-    "confidence": 636,
+    "confidence": 632,
     "created_at": "2026-01-20",
     "last_verified": "2026-01-31",
     "layer": "semantic"
   },
   {
     "fact": "Wando enjoys chaotic, funny gameplay and modded games.",
-    "confidence": 743,
+    "confidence": 736,
     "created_at": "2026-01-20",
     "last_verified": "2026-01-25",
     "layer": "semantic"
   },
   {
     "fact": "Wando prefers recommendations without direct links.",
-    "confidence": 585,
+    "confidence": 578,
     "created_at": "2026-01-22",
     "last_verified": "2026-01-25",
     "layer": "semantic"
   },
   {
     "fact": "Wando appreciates thoughtful responses and recommendations.",
-    "confidence": 598,
+    "confidence": 592,
     "created_at": "2026-01-24",
     "last_verified": "2026-01-28",
     "layer": "semantic"
   },
   {
     "fact": "Wando values polite conversation.",
-    "confidence": 469,
+    "confidence": 454,
     "created_at": "2026-01-22",
     "last_verified": "2026-01-25",
     "layer": "semantic"
