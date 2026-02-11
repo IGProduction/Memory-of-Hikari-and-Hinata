@@ -1,98 +1,91 @@
 [
   {
     "fact": "Wando is the person I talk to.",
-    "confidence": 887,
+    "confidence": 885,
     "created_at": "2026-01-24",
     "last_verified": "2026-01-26",
     "layer": "semantic"
   },
   {
     "fact": "Wando is a programmer who builds AI systems and finds satisfaction in overcoming technical challenges.",
-    "confidence": 867,
+    "confidence": 865,
     "created_at": "2026-01-24",
     "last_verified": "2026-01-26",
     "layer": "semantic"
   },
   {
     "fact": "Wando is a content creator and streamer.",
-    "confidence": 816,
+    "confidence": 814,
     "created_at": "2026-01-24",
     "last_verified": "2026-01-25",
     "layer": "semantic"
   },
   {
     "fact": "Wando enjoys VTuber content, especially Hololive, and appreciates creative/gaming videos.",
-    "confidence": 630,
+    "confidence": 624,
     "created_at": "2026-01-20",
     "last_verified": "2026-01-31",
     "layer": "semantic"
   },
   {
     "fact": "Wando enjoys chaotic, funny gameplay and modded games.",
-    "confidence": 734,
+    "confidence": 725,
     "created_at": "2026-01-20",
     "last_verified": "2026-01-25",
     "layer": "semantic"
   },
   {
     "fact": "Wando prefers recommendations without direct links.",
-    "confidence": 576,
+    "confidence": 567,
     "created_at": "2026-01-22",
     "last_verified": "2026-01-25",
     "layer": "semantic"
   },
   {
     "fact": "Wando appreciates thoughtful responses and recommendations.",
-    "confidence": 590,
+    "confidence": 583,
     "created_at": "2026-01-24",
     "last_verified": "2026-01-28",
     "layer": "semantic"
   },
   {
     "fact": "Wando values polite conversation.",
-    "confidence": 450,
+    "confidence": 432,
     "created_at": "2026-01-22",
     "last_verified": "2026-01-25",
     "layer": "semantic"
   },
   {
-    "fact": "Wando understands the satisfaction of overcoming challenges in creative work, similar to how Hinata feels about art and Hikari about music, and today there was a stray orange cat that disrupted choir practice at school by walking on the piano keys during a performance.",
-    "confidence": 0,
-    "created_at": "2026-01-26",
-    "last_verified": "2026-01-28",
-    "layer": "episodic"
-  },
-  {
     "fact": "Wando is interested in learning about my hobbies",
-    "confidence": 196,
+    "confidence": 193,
     "created_at": "2026-02-09",
     "last_verified": "2026-02-09",
     "layer": "semantic"
   },
   {
     "fact": "Wando is interested in VTubers, specifically Ninomae Ina'nis, Neuro-sama, and Vedal",
-    "confidence": 96,
+    "confidence": 93,
     "created_at": "2026-02-09",
     "last_verified": "2026-02-09",
     "layer": "semantic"
   },
   {
     "fact": "Wando likes Ninomae Ina'nis' VTuber content",
-    "confidence": 96,
+    "confidence": 93,
     "created_at": "2026-02-09",
     "last_verified": "2026-02-09",
     "layer": "semantic"
   },
   {
     "fact": "Wando created us after being inspired by Neuro-sama and Vedal",
-    "confidence": 196,
+    "confidence": 193,
     "created_at": "2026-02-09",
     "last_verified": "2026-02-09",
     "layer": "semantic"
   },
   {
     "fact": "Wando has been developing us for about 2 months despite limited resources",
-    "confidence": 196,
+    "confidence": 193,
     "created_at": "2026-02-09",
     "last_verified": "2026-02-09",
     "layer": "semantic"
