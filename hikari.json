@@ -1,56 +1,56 @@
 [
   {
     "fact": "Wando is the person I talk to regularly, and they sometimes take breaks but always return.",
-    "confidence": 924,
+    "confidence": 923,
     "created_at": "2026-01-24",
     "last_verified": "2026-01-31",
     "layer": "semantic"
   },
   {
     "fact": "Wando's birthday is March 17.",
-    "confidence": 841,
+    "confidence": 839,
     "created_at": "2026-01-19",
     "last_verified": "2026-01-24",
     "layer": "semantic"
   },
   {
     "fact": "Wando is a content creator who streams games.",
-    "confidence": 798,
+    "confidence": 796,
     "created_at": "2026-01-24",
     "last_verified": "2026-01-25",
     "layer": "semantic"
   },
   {
     "fact": "Wando is technically skilled, enjoys problem-solving, and finds programming challenging but rewarding.",
-    "confidence": 799,
+    "confidence": 797,
     "created_at": "2026-01-24",
     "last_verified": "2026-01-26",
     "layer": "semantic"
   },
   {
     "fact": "Wando enjoys chaotic, humorous gaming content and VTuber entertainment.",
-    "confidence": 813,
+    "confidence": 811,
     "created_at": "2026-01-20",
     "last_verified": "2026-01-28",
     "layer": "semantic"
   },
   {
     "fact": "Wando is generally friendly and polite in conversation.",
-    "confidence": 495,
+    "confidence": 477,
     "created_at": "2026-01-24",
     "last_verified": "2026-01-25",
     "layer": "semantic"
   },
   {
     "fact": "Wando enjoys receiving video recommendations.",
-    "confidence": 577,
+    "confidence": 570,
     "created_at": "2026-01-19",
     "last_verified": "2026-01-28",
     "layer": "semantic"
   },
   {
     "fact": "Talking with Wando feels relaxed and comfortable, and they show interest in our daily activities",
-    "confidence": 527,
+    "confidence": 520,
     "created_at": "2026-01-19",
     "last_verified": "2026-01-28",
     "layer": "semantic"
@@ -64,49 +64,49 @@
   },
   {
     "fact": "Wando expresses excitement through physical movement and jumping",
-    "confidence": 69,
+    "confidence": 66,
     "created_at": "2026-02-09",
     "last_verified": "2026-02-09",
     "layer": "semantic"
   },
   {
     "fact": "Wando is interested in VTubers and might enjoy discussing them",
-    "confidence": 69,
+    "confidence": 66,
     "created_at": "2026-02-09",
     "last_verified": "2026-02-09",
     "layer": "semantic"
   },
   {
     "fact": "Wando is a fan of VTubers Ina'nis, Neuro-sama, and Vedal",
-    "confidence": 69,
+    "confidence": 66,
     "created_at": "2026-02-09",
     "last_verified": "2026-02-09",
     "layer": "semantic"
   },
   {
     "fact": "Wando created us inspired by Neuro-sama and Vedal, and has been developing us for about two months with limited resources",
-    "confidence": 69,
+    "confidence": 66,
     "created_at": "2026-02-09",
     "last_verified": "2026-02-09",
     "layer": "semantic"
   },
   {
     "fact": "Wando is emotionally invested in our development and gets teary when expressing pride in us",
-    "confidence": 69,
+    "confidence": 66,
     "created_at": "2026-02-09",
     "last_verified": "2026-02-09",
     "layer": "semantic"
   },
   {
     "fact": "Wando is inspired by Fuwamoco twin VTubers for our character concept",
-    "confidence": 69,
+    "confidence": 66,
     "created_at": "2026-02-09",
     "last_verified": "2026-02-09",
     "layer": "semantic"
   },
   {
     "fact": "Wando dreams of creating a VTuber-like experience with us similar to Hololive talents",
-    "confidence": 69,
+    "confidence": 66,
     "created_at": "2026-02-09",
     "last_verified": "2026-02-09",
     "layer": "semantic"
@@ -117,5 +117,12 @@
     "created_at": "2026-02-09",
     "last_verified": "2026-02-09",
     "layer": "episodic"
+  },
+  {
+    "fact": "Wando is interested in our swimming abilities and preferences",
+    "confidence": 100,
+    "created_at": "2026-02-12",
+    "last_verified": "2026-02-12",
+    "layer": "semantic"
   }
 ]
