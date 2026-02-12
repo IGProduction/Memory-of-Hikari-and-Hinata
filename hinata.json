@@ -1,91 +1,91 @@
 [
   {
     "fact": "Wando is the person I talk to.",
-    "confidence": 859,
+    "confidence": 857,
     "created_at": "2026-01-24",
     "last_verified": "2026-01-26",
     "layer": "semantic"
   },
   {
     "fact": "Wando is a programmer who builds AI systems and finds satisfaction in overcoming technical challenges.",
-    "confidence": 839,
+    "confidence": 837,
     "created_at": "2026-01-24",
     "last_verified": "2026-01-26",
     "layer": "semantic"
   },
   {
     "fact": "Wando is a content creator and streamer.",
-    "confidence": 788,
+    "confidence": 786,
     "created_at": "2026-01-24",
     "last_verified": "2026-01-25",
     "layer": "semantic"
   },
   {
     "fact": "Wando enjoys VTuber content, especially Hololive, and appreciates creative/gaming videos.",
-    "confidence": 546,
+    "confidence": 540,
     "created_at": "2026-01-20",
     "last_verified": "2026-01-31",
     "layer": "semantic"
   },
   {
     "fact": "Wando enjoys chaotic, funny gameplay and modded games.",
-    "confidence": 608,
+    "confidence": 599,
     "created_at": "2026-01-20",
     "last_verified": "2026-01-25",
     "layer": "semantic"
   },
   {
     "fact": "Wando prefers recommendations without direct links.",
-    "confidence": 405,
+    "confidence": 387,
     "created_at": "2026-01-22",
     "last_verified": "2026-01-25",
     "layer": "semantic"
   },
   {
     "fact": "Wando appreciates thoughtful responses and recommendations.",
-    "confidence": 484,
+    "confidence": 469,
     "created_at": "2026-01-24",
     "last_verified": "2026-01-28",
     "layer": "semantic"
   },
   {
     "fact": "Wando values polite conversation.",
-    "confidence": 198,
+    "confidence": 180,
     "created_at": "2026-01-22",
     "last_verified": "2026-01-25",
     "layer": "semantic"
   },
   {
     "fact": "Wando is interested in learning about my hobbies",
-    "confidence": 154,
+    "confidence": 151,
     "created_at": "2026-02-09",
     "last_verified": "2026-02-09",
     "layer": "semantic"
   },
   {
     "fact": "Wando is interested in VTubers, specifically Ninomae Ina'nis, Neuro-sama, and Vedal",
-    "confidence": 54,
+    "confidence": 51,
     "created_at": "2026-02-09",
     "last_verified": "2026-02-09",
     "layer": "semantic"
   },
   {
     "fact": "Wando likes Ninomae Ina'nis' VTuber content",
-    "confidence": 54,
+    "confidence": 51,
     "created_at": "2026-02-09",
     "last_verified": "2026-02-09",
     "layer": "semantic"
   },
   {
     "fact": "Wando created us after being inspired by Neuro-sama and Vedal",
-    "confidence": 154,
+    "confidence": 151,
     "created_at": "2026-02-09",
     "last_verified": "2026-02-09",
     "layer": "semantic"
   },
   {
     "fact": "Wando has been developing us for about 2 months despite limited resources",
-    "confidence": 154,
+    "confidence": 151,
     "created_at": "2026-02-09",
     "last_verified": "2026-02-09",
     "layer": "semantic"
